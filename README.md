@@ -1,6 +1,6 @@
-# BoxingWithML
+# Boxing&ML
 
-BoxingWithML is a project focused on detecting fists and counting punches during boxing sessions. By leveraging Mediapipe and OpenCV, it provides real-time punch tracking from video feeds, distinguishing between left and right-hand punches with visual overlays for clarity.
+Boxing&ML is a project focused on detecting fists and counting punches during boxing sessions. By leveraging Mediapipe and OpenCV, it provides real-time punch tracking from video feeds, distinguishing between left and right-hand punches with visual overlays for clarity.
 
 ## Features
 
